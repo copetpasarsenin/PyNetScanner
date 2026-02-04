@@ -1,0 +1,8 @@
+# PyNetScanner Dependencies
+# Install with: pip install -r requirements.txt
+
+customtkinter>=5.2.0
+ping3>=4.0.0
+psutil>=5.9.0
+python-whois>=0.8.0
+requests>=2.31.0
